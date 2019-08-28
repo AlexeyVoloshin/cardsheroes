@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 ## Setup project
-<p> Execute command:  php artisan migrate</p>
+<p>Create  bd "cardsheroes"</p>
+<p>connect to the  bd "cardsheroes"</p>
+<p>- Execute command:  php artisan migrate</p>
+ <p>- Execute command: php artisan storage:link</p>
+
+
 <p> Configure a virtual domain to a folder \cardsheroes\public </p>
 
