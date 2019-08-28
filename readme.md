@@ -8,5 +8,5 @@
 </p>
 ## Setup project
 <p> Execute command:  php artisan migrate</p>
-<p> Configure a virtual domain on a folder \cardsheroes\public </p>
+<p> Configure a virtual domain to a folder \cardsheroes\public </p>
 
